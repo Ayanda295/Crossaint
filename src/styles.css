@@ -1,3 +1,6 @@
 .container {
     background: violet;
 }
+body {
+    justify-content: center;
+}
