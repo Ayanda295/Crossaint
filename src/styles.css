@@ -1,5 +1,6 @@
 .container {
     background: violet;
+    box-sizing: border-box;
 }
 body {
     justify-content: center;
